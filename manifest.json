@@ -1,0 +1,13 @@
+{
+    "name": "SearchAnimeSabyr",
+    "short_name": "AnimeSearch",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fafafa",
+    "orientation": "portrait-primary",
+    "icons": {
+        "src": "https://purepng.com/public/uploads/large/purepng.com-pokeballpokeballdevicepokemon-ballpokemon-capture-ball-17015278258617bdog.png",
+        "type": "image/png",
+        "sizes": "928x928"
+    }
+}
