@@ -1,0 +1,13 @@
+{
+    "name": "SearchAnimeSabyr",
+    "short_name": "AnimeSearch",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fafafa",
+    "orientation": "portrait-primary",
+    "icons": [{
+        "src": "songs/logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }]
+}
